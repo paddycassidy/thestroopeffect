@@ -1,0 +1,2 @@
+Name, Author, Download URL, Attribution URL, License Type
+colourgamelogo.png, 10binary, https://openclipart.org/detail/148747/12-color-circles, n/a, Creative Commons Zero 1.0 Public Domain License
